@@ -9,7 +9,7 @@ Due to size of the datasets, we do not include them directly in the GitHub. We a
 We also supply code to recreate other plots from our report.
 
 ## 
-![Architecture of our 2D CNN](illustrations/conv2d.png)
+![Architecture of our 2D CNN](illustrations/conv2d_github.png)
 
 
 By Christian Bjerregaard and Aske Rove at The Technical Univeristy of Denmark. 2025.
