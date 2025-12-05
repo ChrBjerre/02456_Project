@@ -8,8 +8,12 @@ Due to size of the datasets, we do not include them directly in the GitHub. We a
 
 We also supply code to recreate other plots from our report.
 
-## 
+## Our 2D CNN architecture
+Our 2D CNN architecture (Conv2D) can be seen illustrated below. 
 ![Architecture of our 2D CNN](illustrations/conv2d_github.png)
-
+* Conv: convolutional layer
+* MP: maxpooling layer
+* AAP: adaptive average pooling layer
+* FC: fully connected layer
 
 By Christian Bjerregaard and Aske Rove at The Technical Univeristy of Denmark. 2025.
