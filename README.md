@@ -9,7 +9,7 @@ Due to size of the datasets, we do not include them directly in the GitHub. We a
 We also supply code to recreate other plots from our report.
 
 ## Our 2D CNN architecture
-Our 2D CNN architecture (Conv2D) can be seen illustrated below. 
+Our 2D CNN architecture (Conv2D) can be seen illustrated below. In the concat-layer 'V' is the number of views. This is where the results are concatenated in the late-fusion manner.
 ![Architecture of our 2D CNN](illustrations/conv2d_github.png)
 * Conv: convolutional layer
 * MP: maxpooling layer
